@@ -1,0 +1,20 @@
+# Ignore environment config and secret files
+.env
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore log files and generated reports
+logs/
+output_reports/
+*.docx
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
